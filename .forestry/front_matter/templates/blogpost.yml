@@ -20,3 +20,5 @@ fields:
 - name: toc
   type: boolean
   label: toc
+pages:
+- content/blogposts/my-fifth-post.md
