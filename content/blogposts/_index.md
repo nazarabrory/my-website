@@ -1,6 +1,8 @@
 ---
 title: Blogposts
+weight: "-100"
 menu:
-  - sidebar
-weight: -100
+  sidebar:
+    weight: 2
+
 ---
