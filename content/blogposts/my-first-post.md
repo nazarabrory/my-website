@@ -9,4 +9,4 @@ authors:
 cover: 
 
 ---
-Hi this is my really really first post ever!
+![](/uploads/img_20180422_125257_hdr.jpg)Hi this is my really really first post ever!
