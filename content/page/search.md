@@ -6,4 +6,4 @@ outputs:
 - json
 
 ---
-Here it is what we find from your search prompts:
+Type anything do you want to find here :
