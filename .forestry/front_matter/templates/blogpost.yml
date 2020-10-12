@@ -29,5 +29,4 @@ fields:
       path: 
   label: toc
 pages:
-- content/blogposts/my-secondary-post-in-forestry.md
 - content/blogposts/this-is-my-third-post-in-forestry.md
