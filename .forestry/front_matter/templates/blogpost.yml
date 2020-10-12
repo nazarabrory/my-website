@@ -14,5 +14,19 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: toc
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: toc
 pages:
 - content/blogposts/my-secondary-post-in-forestry.md
