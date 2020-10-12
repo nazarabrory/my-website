@@ -4,7 +4,7 @@ date: {{ .Date }}
 tags:
 categories:
 authors:
-cover:
+toc:
 draft: true
 ---
 
