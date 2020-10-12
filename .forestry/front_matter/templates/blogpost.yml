@@ -14,9 +14,3 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: text
-  name: authors
-  label: authors
-- name: toc
-  type: boolean
-  label: toc
