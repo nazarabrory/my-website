@@ -17,6 +17,6 @@ fields:
 - type: text
   name: authors
   label: authors
-- type: text
-  name: cover
-  label: cover
+- name: toc
+  type: boolean
+  label: toc
