@@ -1,8 +1,9 @@
 ---
 title: Search
-type: page
 layout: search
 outputs:
-  - html
-  - json
+- html
+- json
+
 ---
+Here it is what we find from your search prompts:
