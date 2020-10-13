@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: TextArea
+pages:
+- content/page/about-me.md
