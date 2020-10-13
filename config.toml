@@ -1,5 +1,5 @@
 Paginate = 5
-baseURL = "http://www.example.com"
+baseURL = "https://www.nazarabrory.com"
 copyright = ""
 defaultContentLanguage = "en"
 disqusShortname = ""
@@ -21,6 +21,13 @@ identifier = "BLog"
 name = "Blogposts"
 url = "/blogposts/"
 weight = 2
+
+[[menu.main]]
+identifier ="About"
+name = "About Me"
+url = "/about/"
+weight = 3
+
 [params.assets]
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
@@ -52,7 +59,7 @@ prefix = ""
 startYear = "2020"
 suffix = ""
 [params.info]
-description = "Earthsciences Enthusiast."
+description = "Geologist, Data analyst."
 title404 = "Nothing's here!"
 [params.opengraph.facebook]
 admins = []
@@ -69,7 +76,7 @@ searchApiKey = ""
 [params.seo]
 titleSeparator = "•"
 [params.settings]
-accentColor = "#ffcd00"
+accentColor = "#ff7700"
 archiveDateFormat = "Jan 02"
 dateFormat = "2006, Jan 02"
 hideEntryMeta = ["page"]
