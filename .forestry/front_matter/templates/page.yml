@@ -8,3 +8,5 @@ fields:
 - type: text
   name: weight
   label: weight
+pages:
+- content/page/about-me-1.md
