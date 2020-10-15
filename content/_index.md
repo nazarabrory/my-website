@@ -1,6 +1,5 @@
 ---
 title: Home
-description: asd;jkgsdf
 weight: "-270"
 menu:
   sidebar:

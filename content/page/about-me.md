@@ -5,7 +5,7 @@ menu:
   sidebar:
     weight: 100
 cover: 
-    image: /uploads/img_20180422_125257_hdr.jpg
+    image: /uploads/about-me-photo.jpg
     style: wide
 ---
 
