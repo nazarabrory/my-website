@@ -110,6 +110,6 @@ In term of communication both written and verbal, I use these languages:
 * **English** (Intermediate level)
 * **Indonesia** (Native)
 
-  {{< right >}} _Last update on: Oct, 2020_ {{< /right >}}
+  {{< center >}} _Last update on: Oct, 2020_ {{< /center >}}
 
 ***
