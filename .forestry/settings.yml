@@ -1,24 +1,27 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Content
-  create: all
-  match: "*"
-- type: directory
-  path: content/page
-  label: Page
-  create: all
-  match: "**/*"
+- type: heading
+  label: Contents
+- type: document
+  path: content/_index.md
+  label: Home
 - type: directory
   path: content/blogposts
-  label: Blogposts
+  label: Blog Posts
   create: all
   match: "**/*"
+- type: document
+  path: content/page/about-me.md
+  label: About Me
+- type: heading
+  label: Site Configuration
+- type: document
+  path: config.toml
+  label: Configuration
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
