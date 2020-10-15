@@ -17,6 +17,11 @@ sections:
 - type: document
   path: content/page/about-me.md
   label: About Me
+- type: heading
+  label: Site Configuration
+- type: document
+  path: config.toml
+  label: configuration
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
