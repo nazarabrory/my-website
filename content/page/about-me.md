@@ -7,6 +7,7 @@ cover:
 menu:
   sidebar:
     weight: 100
+draft: true
 
 ---
 # ACHMAD NAZAR ABRORY
@@ -109,6 +110,6 @@ In term of communication both written and verbal, I use these languages:
 * **English** (Intermediate level)
 * **Indonesia** (Native)
 
-    {{< center >}} last update on: Oct, 2020 {{< /center >}}
+  ###### {{< center >}} _Last update on: Oct, 2020_ {{< /center >}}
 
 ***
