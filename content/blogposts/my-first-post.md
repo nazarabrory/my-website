@@ -7,6 +7,10 @@ categories:
 - gibberish
 authors: 
 cover: 
-
+    image: /uploads/img_20180422_125257_hdr.jpg
+    style: wide
 ---
-![](/uploads/img_20180422_125257_hdr.jpg)Hi this is my really really first post ever!
+{{< center >}}
+Hi this is my really really first post ever, Here it  is my photo that I use as my cover image!
+![](/uploads/img_20180422_125257_hdr.jpg) 
+{{< /center >}}

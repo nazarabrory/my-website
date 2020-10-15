@@ -1,21 +1,41 @@
 Paginate = 5
+
 baseURL = "https://www.nazarabrory.com"
+
 copyright = ""
+
 defaultContentLanguage = "en"
+
 disqusShortname = ""
+
 enableEmoji = true
+
 enableRobotsTXT = true
+
 googleAnalytics = ""
+
 preserveTaxonomyNames = true
+
 pygmentsCodefences = true
+
 theme = "minimo"
+
 title = "Nazarabrory"
+
 [blackfriday]
 hrefTargetBlank = true
+
 [languages.en]
 lang = "en"
 languageName = "English"
 weight = 1
+
+[languages.id]
+lang = "id"
+languageName = "Indonesia"
+weight = 2
+
+
 [[menu.main]]
 identifier = "BLog"
 name = "Blogposts"
@@ -33,48 +53,61 @@ customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 favicon = "favicon.ico"
 gopher = ""
+
 [params.comments]
 enable = false
+
 [params.comments.isso]
 dataAttrs = ""
 enable = false
 scriptSrc = ""
+
 [params.comments.staticman]
 apiEndpoint = "https://api.staticman.net/v2/entry"
 enable = true
 maxDepth = 2
 repository = "minimo"
 username = "MunifTanjim"
+
 [params.comments.utterances]
 enable = false
 issueTerm = "pathname"
 label = ""
 theme = "github-light"
+
 [params.comments.utterances.github]
 repository = ""
 username = ""
+
 [params.copyright]
 holder = "Nazarabrory"
 prefix = ""
 startYear = "2020"
 suffix = ""
+
 [params.info]
 description = "Geologist, Data analyst."
 title404 = "Nothing's here!"
+
 [params.opengraph.facebook]
 admins = []
 appID = ""
 pageID = ""
+
 [params.opengraph.twitter]
 page = ""
+
 [params.search]
 client = "fuse"
+
 [params.search.algolia]
 appId = ""
 indexName = ""
 searchApiKey = ""
+
 [params.seo]
 titleSeparator = "•"
+
 [params.settings]
 accentColor = "#ff7700"
 archiveDateFormat = "Jan 02"
@@ -86,8 +119,10 @@ listDateFormat = "2006, Jan 02"
 showLastmod = true
 showReadingTime = true
 taxonomyCloudShuffle = true
+
 [params.sidebar]
 enable = true
+
 [params.social]
 codepen = ""
 email = "nazarabrory@asia-mail.com"
@@ -100,13 +135,16 @@ linkedin = "nazarabrory"
 telegram = "nazarabrory"
 twitter = "nazarabrory"
 youtube = ""
+
 [params.widgets]
 footer = ["social_menu"]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
 sidebar = ["about", "sidebar_menu", "search", "taxonomy_cloud"]
+
 [permalinks]
 page = "/:slug/"
+
 [taxonomies]
 author = "authors"
 category = "categories"
