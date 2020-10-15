@@ -7,8 +7,8 @@ authors: ["nazarabrory"]
 toc: true
 draft: false
 cover:
-    image: 
-    alternate:
+    image: /uploads/blogposts/bromo-flank.jpg
+    alternate: "An image of man standing on Bromo Volcano Flank"
     caption:
     style: wide
 ---
