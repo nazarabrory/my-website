@@ -140,7 +140,7 @@ youtube = ""
 footer = ["social_menu"]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about", "sidebar_menu", "search", "taxonomy_cloud"]
+sidebar = ["about", "sidebar_menu", "taxonomy_cloud", "search"]
 
 [permalinks]
 page = "/:slug/"
