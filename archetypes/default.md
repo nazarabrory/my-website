@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-tags:
-categories:
+tags: []
+categories: []
 authors: ["nazarabrory"]
 toc: true
 draft: true
