@@ -12,8 +12,10 @@ fields:
   name: cover
   label: cover
   fields:
-  - type: text
-    name: image
+  - name: image
+    type: file
+    config:
+      maxSize: 64
     label: image
   - type: text
     name: alternate
@@ -21,6 +23,18 @@ fields:
   - type: text
     name: caption
     label: caption
-  - type: text
-    name: style
+  - name: style
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - full
+      - wide
+      - normal
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
     label: style
