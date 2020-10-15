@@ -38,3 +38,5 @@ fields:
   - type: text
     name: style
     label: style
+pages:
+- content/blogposts/geological-virtual-tour-to-the-bromo-volcano.md
