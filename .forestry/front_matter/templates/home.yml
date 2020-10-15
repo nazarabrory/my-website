@@ -38,3 +38,5 @@ fields:
         file: 
         path: 
     label: style
+pages:
+- content/_index.md

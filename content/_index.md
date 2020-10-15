@@ -2,10 +2,10 @@
 title: Home
 weight: "-270"
 cover:
-  image: ''
+  image: "/uploads/about-me-photo.jpg"
   alternate: ''
   caption: ''
-  style: full
+  style: wide
 menu:
   main:
     weight: 1
