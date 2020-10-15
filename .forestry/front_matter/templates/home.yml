@@ -1,0 +1,26 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: weight
+  label: weight
+- type: field_group
+  name: cover
+  label: cover
+  fields:
+  - type: text
+    name: image
+    label: image
+  - type: text
+    name: alternate
+    label: alternate
+  - type: text
+    name: caption
+    label: caption
+  - type: text
+    name: style
+    label: style
