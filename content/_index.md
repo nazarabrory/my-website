@@ -1,5 +1,6 @@
 ---
 title: Home
+description: asd;jkgsdf
 weight: "-270"
 menu:
   sidebar:
@@ -7,8 +8,8 @@ menu:
   main:
     weight: 1
 cover: 
-    image: /uploads/img_20180422_125257_hdr.jpg
-    style: wide
+    image: 
+    style: 
 ---
 
-> Welcome to my personal blog! Check out all of my blogpost, If you need anything to discuss with me, please contact me through my social media which you can find in bottom part of this site. Enjoy!
+> Welcome to my personal blog! Check out my blogposts, If you need anything to discuss, please contact me through my social media. Enjoy!
