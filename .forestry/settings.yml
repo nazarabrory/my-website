@@ -11,7 +11,7 @@ sections:
   label: Home
 - type: directory
   path: content/blogposts
-  label: Blogposts
+  label: Blog Posts
   create: all
   match: "**/*"
 - type: document
@@ -21,8 +21,7 @@ sections:
   label: Site Configuration
 - type: document
   path: config.toml
-  label: configuration
-  match: "**/*"
+  label: Configuration
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
