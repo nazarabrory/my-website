@@ -74,6 +74,7 @@ Here it is my set of skills which I've gained from various activities and projec
 * Computer-aided drawing
 * Geochemical data analysis
 * Satellite image analysis
+* Statistical Analysis
 * Python programming language
 * Project management
 
