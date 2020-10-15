@@ -24,8 +24,10 @@ fields:
   name: cover
   label: cover
   fields:
-  - type: text
-    name: image
+  - name: image
+    type: file
+    config:
+      maxSize: 64
     label: image
   - type: text
     name: alternate
