@@ -7,7 +7,6 @@ cover:
 menu:
   sidebar:
     weight: 100
-draft: true
 
 ---
 # ACHMAD NAZAR ABRORY
