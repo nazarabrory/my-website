@@ -13,6 +13,6 @@ image = "/uploads/bromo.jpg"
 style = "full"
 
 +++
-\[slideshare id=238889787&doc=mengintipwarisangeologidibts-201016022216\]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8G2z6pvCa75Sw1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/8G2z6pvCa75Sw1" title="Potential Geoheritage in Bromo Volcano Area" target="_blank">Potential Geoheritage in Bromo Volcano Area</a> </strong> from <strong><a href="[https://www.slideshare.net/AchmadNazarAbrory](https://www.slideshare.net/AchmadNazarAbrory "https://www.slideshare.net/AchmadNazarAbrory")" target="_blank">Achmad Nazar Abrory</a></strong> </div>
 
 This is a virutal tour on Bromo Volcano.
