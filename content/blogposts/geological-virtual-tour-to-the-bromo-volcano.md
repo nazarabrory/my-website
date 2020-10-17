@@ -13,6 +13,6 @@ image = "/uploads/bromo.jpg"
 style = "full"
 
 +++
-{{< slideshare id=238889787 >}}
+{{< slideshare "238889787" >}}
 
 This is a virutal tour on Bromo Volcano.
