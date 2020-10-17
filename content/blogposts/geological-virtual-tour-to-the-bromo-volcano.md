@@ -13,6 +13,6 @@ image = "/uploads/bromo.jpg"
 style = "full"
 
 +++
-{{< gslides [https://docs.google.com/presentation/d/e/2PACX-1vS-WOgNB_vaFKjMxp2UCxMRxKDIONTJAgPikLdx1YCIlHT9vTbPImODHjhAZ8Nr4J02dRVjQEUfoR8n/pub?start=false&loop=false&delayms=3000&slide=id.gc6f972163_0_54](https://docs.google.com/presentation/d/e/2PACX-1vS-WOgNB_vaFKjMxp2UCxMRxKDIONTJAgPikLdx1YCIlHT9vTbPImODHjhAZ8Nr4J02dRVjQEUfoR8n/pub?start=false&loop=false&delayms=3000&slide=id.gc6f972163_0_54 "https://docs.google.com/presentation/d/e/2PACX-1vS-WOgNB_vaFKjMxp2UCxMRxKDIONTJAgPikLdx1YCIlHT9vTbPImODHjhAZ8Nr4J02dRVjQEUfoR8n/pub?start=false&loop=false&delayms=3000&slide=id.gc6f972163_0_54") >}}
+This is a virtual tour on Bromo Volcano.
 
-This is a virutal tour on Bromo Volcano.
+{{ gslides src="https://docs.google.com/presentation/d/e/2PACX-1vS-WOgNB_vaFKjMxp2UCxMRxKDIONTJAgPikLdx1YCIlHT9vTbPImODHjhAZ8Nr4J02dRVjQEUfoR8n/pub?start=false&loop=false&delayms=3000&slide=id.gc6f972163_0_54" }}
