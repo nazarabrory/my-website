@@ -13,6 +13,8 @@ image = "/uploads/bromo.jpg"
 style = "full"
 
 +++
-This is a virtual tour on Bromo Volcano.
+This is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfj This is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfjThis is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfjThis is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfj
 
 {{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vS-WOgNB_vaFKjMxp2UCxMRxKDIONTJAgPikLdx1YCIlHT9vTbPImODHjhAZ8Nr4J02dRVjQEUfoR8n/embed?start=false&loop=false&delayms=3000">}}
+
+This is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfjThis is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfjThis is a virtual tour on Bromo Volcano. askldjfhlaskdjf;alskdjf'asl;dkfj;alsdkfhjasl;dkjf'as;dlfjasl;dkjfha;'sldkjf'asl;dfjasl;dkfj'as;ldfjk'asd;lfjas'l;dfjkasldkfj
