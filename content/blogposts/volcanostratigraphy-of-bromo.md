@@ -28,4 +28,4 @@ Hi, welcome to my first post. Here I'm going to share my undergraduate thesis en
 
 {{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQll2WwKJ0BdshpIg0jojtgd4iOVUn_A8lu_rsZnUzye3I49hfMS2c4OA-rQbF1uw/embed?start=false&loop=false&delayms=3000">}}
 
-If you are interested for more, please visit [https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia](https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia "my researchgate").
+If you are interested for more, please visit \[my researchgate\]([https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia](https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia "https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia"))
