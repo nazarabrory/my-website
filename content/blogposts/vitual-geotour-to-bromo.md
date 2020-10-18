@@ -2,7 +2,6 @@
 authors = []
 categories = []
 date = 2020-10-18T17:00:00Z
-draft = true
 tags = ["Geotourism"]
 title = "Vitual Geotour to Bromo"
 toc = false
@@ -13,6 +12,7 @@ image = ""
 style = ""
 
 +++
-Here it is the tour.
+Recently, I presented a virtual geo tour on an event which held to promote Bromo Tengger Semeru area to be one of the UNESCO Global Geoparks. So, Here it is the slides!
 
-{{<gslides src="https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221cE6ON_SO0n66Q6M0oYqsCE03ewfv90n8%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22101330689259041112206%22%7D&usp=sharing">}}
+{{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vSogq4K7cKE6flFeLVLt8R2Zsiyn9LYMVsOw0tbaQV7dsUc92rOWDNulD_eKZzT-Q/embed?start=false&loop=false&delayms=3000">}}
+ 
