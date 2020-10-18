@@ -3,6 +3,8 @@ title: Volcanostratigraphy and Petrogenesis of Bromo Volcano, Indonesia
 date: 2020-10-15T13:50:05.000+07:00
 tags:
 - Volcanostratigraphy
+- Petrogenesis
+- Bromo
 categories:
 - Volcanology
 authors:
@@ -11,9 +13,8 @@ toc: false
 cover:
   image: "/uploads/blogposts/flank-of-bromo.JPG"
   alternate: An image of man standing on Bromo Volcano Flank
-  caption: A view from Bromo Volcano Flank
+  caption: ''
   style: full
-draft: true
 
 ---
 
@@ -26,3 +27,5 @@ Hi, welcome to my first post. Here I'm going to share my undergraduate thesis en
 ### Presentation Slides
 
 {{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQll2WwKJ0BdshpIg0jojtgd4iOVUn_A8lu_rsZnUzye3I49hfMS2c4OA-rQbF1uw/embed?start=false&loop=false&delayms=3000">}}
+
+If you are interested for more, please visit [https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia](https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia "my researchgate").
