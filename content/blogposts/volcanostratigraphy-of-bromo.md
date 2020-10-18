@@ -1,6 +1,6 @@
 ---
 title: Volcanostratigraphy and Petrogenesis of Bromo Volcano, Indonesia
-date: 2020-10-15T13:50:05.000+07:00
+date: 2020-10-15T13:50:05+07:00
 tags:
 - Volcanostratigraphy
 - Petrogenesis
@@ -15,7 +15,6 @@ cover:
   alternate: An image of man standing on Bromo Volcano Flank
   caption: ''
   style: full
-draft: true
 
 ---
 Hi, welcome to my first post. Here I'm going to share my undergraduate thesis entitled Volcano stratigraphy and Petrogenesis Bromo Volcano and its surrounding area, Probolinggo district, East Java Province, Indonesia. In this post I just want to share the abstract and the presentation slides. 
