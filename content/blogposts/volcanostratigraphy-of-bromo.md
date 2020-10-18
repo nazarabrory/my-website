@@ -15,9 +15,9 @@ cover:
   alternate: An image of man standing on Bromo Volcano Flank
   caption: ''
   style: full
+draft: true
 
 ---
-
 Hi, welcome to my first post. Here I'm going to share my undergraduate thesis entitled Volcano stratigraphy and Petrogenesis Bromo Volcano and its surrounding area, Probolinggo district, East Java Province, Indonesia. In this post I just want to share the abstract and the presentation slides. 
 
 ### Abstract
@@ -28,4 +28,4 @@ Hi, welcome to my first post. Here I'm going to share my undergraduate thesis en
 
 {{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQll2WwKJ0BdshpIg0jojtgd4iOVUn_A8lu_rsZnUzye3I49hfMS2c4OA-rQbF1uw/embed?start=false&loop=false&delayms=3000">}}
 
-If you are interested for more, please visit \[my researchgate\]([https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia](https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia "https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia"))
+If you are interested for more, please visit [my reserachgate](https://www.researchgate.net/publication/342491267_Volcanostratigraphy_and_Petrogenesis_of_Bromo_Volcano_East_Java_Indonesia)
