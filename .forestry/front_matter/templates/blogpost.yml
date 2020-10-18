@@ -54,3 +54,5 @@ fields:
         file: 
         path: 
     label: style
+pages:
+- content/blogposts/vitual-geotour-to-bromo.md
