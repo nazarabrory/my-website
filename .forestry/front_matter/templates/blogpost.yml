@@ -21,6 +21,8 @@ fields:
     use_select: true
     source:
       type: simple
+    options:
+    - nazarabrory
 - type: boolean
   name: toc
   label: toc
