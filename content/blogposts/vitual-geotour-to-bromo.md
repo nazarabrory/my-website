@@ -8,7 +8,7 @@ toc = false
 [cover]
 alternate = ""
 caption = ""
-image = "/uploads/bromo.jpg"
+image = ""
 style = "wide"
 
 +++
