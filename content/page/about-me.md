@@ -37,13 +37,6 @@ Institut Teknologi Bandung, _Indonesia – (Aug 2014 - Mar 2019)_
 
 * GPA 3.25 out of 4.00 (149 credits)
 * Thesis: Volcano Stratigraphy and Petrogenesis of Bromo Volcano and Its Surroundings, Probolinggo District, East Java Province, Indonesia.
-* I took several additional courses related to the mining and exploration business :
-  * Rock-forming Minerals
-  * Exploration Geochemistry
-  * Introduction to Soil Geochemistry
-  * Remote Sensing for Exploration
-  * Geophysical Exploration
-  * Advanced Structural Geology
 
 ### Online Courses
 
@@ -62,7 +55,7 @@ To leverage my knowledge and skills, I also pursue some certified online courses
 
 ### Geologist
 
-PT Aneka Tambang Tbk*, Cibaliung Underground Gold Mine – (Apr 2019 - Mar 2020)*
+PT Aneka Tambang Tbk, Cibaliung Underground Gold Mine – (Apr 2019 - Mar 2020)
 
 I have experience in Underground Gold Mine Development Program, those are:
 
@@ -84,7 +77,7 @@ The aspiring Bromo Tengger Semeru UNESCO Global Geopark initiation program (Jun 
 
 ### General Secretary
 
-HMTG "GEA" ITB*, (Mar 2017 - Feb 2018)*
+HMTG "GEA" ITB , (Mar 2017 - Feb 2018)
 
 * Manage 185 organization's agenda to run effectively, efficiently, and systematically
 * Control the performance of the financial manager administrative manager, facility manager, and business manager to fulfill the daily, weekly, and monthly target
@@ -122,14 +115,14 @@ The Most Outstanding Student Faculty Level, ITB _(Mar 2017)_
 
 ### Shorlisted Works
 
-Written Idea on National Student Creativity Program*, (Apr 2017)*
+Written Idea on National Student Creativity Program, (Apr 2017)
 
 * This program (PKM-GT) is the most prestigious college student’s competition held by the Ministry of Research, Technology, and Higher Education of the Republic of Indonesia.
 * Along with several teams I managed to write four scientifc ideas, and two of them passed the selection.
 
 ### Runner-Up
 
-National Mitigation Paper Contest  MEGATHRUST*, (Apr 2017)*
+National Mitigation Paper Contest  MEGATHRUST, (Apr 2017)
 
 * This competition held by The University of Diponegoro aimed to challenge students to make a creative idea on solving problems in Indonesia.
 * The Idea was presented in the form of articles, posters, and oral presentations.
