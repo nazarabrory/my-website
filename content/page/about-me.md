@@ -17,7 +17,7 @@ menu:
 
 These are the information about my Education Background, Work Experience, Organizational Experience, Skills, Software Usage Ability, and Communication Language. If there is anything which I could explain further, please contact me.
 
-## Contact information
+### Contact information
 
 Home    : Probolinggo, East Java, Indonesia
 
@@ -29,16 +29,16 @@ linkedin : [linkedin.com/in/nazarabrory](https://www.linkedin.com/in/nazarabrory
 
 phone   :+62 - 852 - 3280 - 2829
 
-## Education
+### Education
 
-### [**Bachelor's Degree in Geological Engineering**](https://akademik.itb.ac.id/ver/a/12014057/a302d0fb3f17c1cdf45116e5a0e317340426d04a0bad89675eeb3f7aceefd7d4)
+#### [**Bachelor's Degree in Geological Engineering**](https://akademik.itb.ac.id/ver/a/12014057/a302d0fb3f17c1cdf45116e5a0e317340426d04a0bad89675eeb3f7aceefd7d4)
 
 Institut Teknologi Bandung, _Indonesia – (Aug 2014 - Mar 2019)_
 
 * GPA 3.25 out of 4.00 (149 credits)
 * Thesis: Volcano Stratigraphy and Petrogenesis of Bromo Volcano and Its Surroundings, Probolinggo District, East Java Province, Indonesia.
 
-### Online Courses
+#### Online Courses
 
 Coursera Platform  _– (Apr 2020 - Nov 2020)_
 
@@ -51,9 +51,9 @@ To leverage my knowledge and skills, I also pursue some certified online courses
 * [Machine Learning for All](https://www.coursera.org/account/accomplishments/certificate/SL83P2KHRNPU)
 * [Data Science Ethics](https://www.coursera.org/account/accomplishments/certificate/QUV8E7FLRY4C)
 
-## Work experience
+### Work experience
 
-### Geologist
+#### Geologist
 
 PT Aneka Tambang Tbk, Cibaliung Underground Gold Mine – (Apr 2019 - Mar 2020)
 
@@ -67,15 +67,15 @@ I have experience in Underground Gold Mine Development Program, those are:
 * Support the resources estimation modeling program.
 * Support the draft-making of the exploration report based on the JORC code.
 
-## Organization and Event Experience
+### Organization and Event Experience
 
-### Keynote Speaker
+#### Keynote Speaker
 
 The aspiring Bromo Tengger Semeru UNESCO Global Geopark initiation program (Jun 2020)
 
 * Present about potential geosites and geoheritage in the area of Bromo Tengger Semeru to support the aspiration of Bromo Tengger Semeru to be a UNESCO Global Geopark.
 
-### General Secretary
+#### General Secretary
 
 HMTG "GEA" ITB , (Mar 2017 - Feb 2018)
 
@@ -83,51 +83,51 @@ HMTG "GEA" ITB , (Mar 2017 - Feb 2018)
 * Control the performance of the financial manager administrative manager, facility manager, and business manager to fulfill the daily, weekly, and monthly target
 * Make a breakthrough by delivering the agendas through an online platform which synchronized and can be easily accessed by each organization's member using their gadgets
 
-### Seminar Trainer
+#### Seminar Trainer
 
 Motivation Training Program for ITB's Freshmen _(Aug 2016 - Jan 2017)_
 
 * Trainer of the motivational training program for more than 50 ITB’s Freshmen in 3 different periods. Each period lasts for 2 days straight.
 * Deliver the materials (time management, work passion, communication, academic ethics) interactively.
 
-### Laboratory Assitant
+#### Laboratory Assitant
 
 Geological Engineering Department, ITB  _(Sep 2016 - Dec 2018)_
 
 * Assistant for rocks & minerals laboratory, structural geology laboratory, and environmental geology laboratory in different periods.
 * Preparing samples and helping college students learn through a practical and oral exam.
 
-### Volunteer
+#### Volunteer
 
 International Student Energy Summit 2015 _(Jun 2015)_
 
 * ISES is a global forum that is held every two years focuses on sustainable resource management and the role of students in defining the future of energy development.
 * My main role is as a videographer who is responsible for taking and managing video documentation of several forums in the event.
 
-## Honors and Awards
+### Honors and Awards
 
-### Runner-Up
+#### Runner-Up
 
 The Most Outstanding Student Faculty Level, ITB _(Mar 2017)_
 
 * This selection is held to choose the best candidate that will represent ITB at the national most outstanding student competition.
 * Selection criteria are based on personality, organizational experiences, achievements, and the latest scientific idea which need to be presented.
 
-### Shorlisted Works
+#### Shorlisted Works
 
 Written Idea on National Student Creativity Program, (Apr 2017)
 
 * This program (PKM-GT) is the most prestigious college student’s competition held by the Ministry of Research, Technology, and Higher Education of the Republic of Indonesia.
 * Along with several teams I managed to write four scientifc ideas, and two of them passed the selection.
 
-### Runner-Up
+#### Runner-Up
 
 National Mitigation Paper Contest  MEGATHRUST, (Apr 2017)
 
 * This competition held by The University of Diponegoro aimed to challenge students to make a creative idea on solving problems in Indonesia.
 * The Idea was presented in the form of articles, posters, and oral presentations.
 
-## Skills
+### Skills
 
 These are my set of skills which I've gained from various activities, projects, and courses:
 
@@ -147,7 +147,7 @@ These are my set of skills which I've gained from various activities, projects, 
 * Python programming language.
 * Project management.
 
-## Software Usage ability
+### Software Usage ability
 
 These are the list of software that I'm able to use. I prefer to use open-source software and using python programming language to solve the problem and understand the underlying process. However, I also have quite decent exposure to proprietary software.
 
@@ -177,7 +177,7 @@ These are the list of software that I'm able to use. I prefer to use open-source
   * GIMP (GNU Image Manipulation Program)
   * Inkscape (Professional quality vector graphics software)
 
-## Languages
+### Languages
 
 In term of written and verbal communication, I use these languages:
 
