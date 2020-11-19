@@ -1,9 +1,9 @@
 +++
 authors = ["nazarabrory"]
 categories = ["Geostatistics"]
-date = 2020-10-17T17:00:00Z
+date = 2020-11-19
 tags = ["Declustering", "GSLIB", "Python"]
-title = "Spatial Declustering using GSLIB in Python."
+title = "Spatial Declustering using GSLIB in Python"
 toc = false
 [cover]
 alternate = ""
@@ -46,120 +46,24 @@ data                                           # View assigned data atributes
 
 
 ```python
-data.data                                       # View the data table
+print(data.data)                                       # View the data table
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Batch</th>
-      <th>Xlocation</th>
-      <th>Ylocation</th>
-      <th>Primary</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1.0</td>
-      <td>39.5</td>
-      <td>18.5</td>
-      <td>0.06</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>1.0</td>
-      <td>5.5</td>
-      <td>1.5</td>
-      <td>0.06</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>1.0</td>
-      <td>38.5</td>
-      <td>5.5</td>
-      <td>0.08</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>1.0</td>
-      <td>20.5</td>
-      <td>1.5</td>
-      <td>0.09</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>1.0</td>
-      <td>27.5</td>
-      <td>14.5</td>
-      <td>0.09</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>135</th>
-      <td>2.0</td>
-      <td>31.5</td>
-      <td>41.5</td>
-      <td>22.75</td>
-    </tr>
-    <tr>
-      <th>136</th>
-      <td>2.0</td>
-      <td>34.5</td>
-      <td>32.5</td>
-      <td>9.42</td>
-    </tr>
-    <tr>
-      <th>137</th>
-      <td>2.0</td>
-      <td>35.5</td>
-      <td>31.5</td>
-      <td>8.48</td>
-    </tr>
-    <tr>
-      <th>138</th>
-      <td>2.0</td>
-      <td>35.5</td>
-      <td>33.5</td>
-      <td>2.82</td>
-    </tr>
-    <tr>
-      <th>139</th>
-      <td>2.0</td>
-      <td>36.5</td>
-      <td>32.5</td>
-      <td>5.26</td>
-    </tr>
-  </tbody>
-</table>
-<p>140 rows × 4 columns</p>
-</div>
-
-
+         Batch  Xlocation  Ylocation  Primary
+    0      1.0       39.5       18.5     0.06
+    1      1.0        5.5        1.5     0.06
+    2      1.0       38.5        5.5     0.08
+    3      1.0       20.5        1.5     0.09
+    4      1.0       27.5       14.5     0.09
+    ..     ...        ...        ...      ...
+    135    2.0       31.5       41.5    22.75
+    136    2.0       34.5       32.5     9.42
+    137    2.0       35.5       31.5     8.48
+    138    2.0       35.5       33.5     2.82
+    139    2.0       36.5       32.5     5.26
+    
+    [140 rows x 4 columns]
+    
 
 
 ```python
@@ -191,7 +95,7 @@ _= gs.location_plot(data=data, var='Primary', ax = ax[1])                       
 
 
     
-![png](/uploads/blogposts/output_7_0.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_7_0.png)
     
 
 
@@ -207,19 +111,19 @@ _ = gs.histogram_plot(data=data[data['Batch'] == 2], var='Primary',figsize=(12, 
 
 
     
-![png](/uploads/blogposts/output_9_0.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_9_0.png)
     
 
 
 
     
-![png](/uploads/blogposts/output_9_1.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_9_1.png)
     
 
 
 
     
-![png](/uploads/blogposts/output_9_2.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_9_2.png)
     
 
 
@@ -239,7 +143,7 @@ gs.write_gslib(data, flname='datafile.dat')
 declus_p = gs.Program(program='declus.exe', getpar=True )
 ```
 
-    C:\Python_Projects\Declustering\tmp4qjr9yn1\declus.par has been copied to the clipboard
+    C:\Python_Projects\Declustering\tmpholyux02\declus.par has been copied to the clipboard
     
 
 By running the code above, the parameter string format automatically copied to the clipboard. Next, paste it into the next block.
@@ -319,7 +223,7 @@ _ = gs.scatter_plot(x=declus_sum['Cell Size'], y=declus_sum['Declustered Mean'],
 
 
     
-![png](/uploads/blogposts/output_19_0.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_19_0.png)
     
 
 
@@ -328,132 +232,24 @@ As we can see the lowest Declustered mean is around 2.5. Next, we are going to i
 
 ```python
 declus_out = gs.DataFile('declus.out')               # Importing Declustering Output
-declus_out.data                                      # View the data
+print(declus_out.data)                               # View the data
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Batch</th>
-      <th>Xlocation</th>
-      <th>Ylocation</th>
-      <th>Primary</th>
-      <th>Declustering Weight</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1.0</td>
-      <td>39.5</td>
-      <td>18.5</td>
-      <td>0.06</td>
-      <td>1.281301</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>1.0</td>
-      <td>5.5</td>
-      <td>1.5</td>
-      <td>0.06</td>
-      <td>1.400103</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>1.0</td>
-      <td>38.5</td>
-      <td>5.5</td>
-      <td>0.08</td>
-      <td>1.613235</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>1.0</td>
-      <td>20.5</td>
-      <td>1.5</td>
-      <td>0.09</td>
-      <td>1.797446</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>1.0</td>
-      <td>27.5</td>
-      <td>14.5</td>
-      <td>0.09</td>
-      <td>1.430162</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>135</th>
-      <td>2.0</td>
-      <td>31.5</td>
-      <td>41.5</td>
-      <td>22.75</td>
-      <td>0.367498</td>
-    </tr>
-    <tr>
-      <th>136</th>
-      <td>2.0</td>
-      <td>34.5</td>
-      <td>32.5</td>
-      <td>9.42</td>
-      <td>0.417419</td>
-    </tr>
-    <tr>
-      <th>137</th>
-      <td>2.0</td>
-      <td>35.5</td>
-      <td>31.5</td>
-      <td>8.48</td>
-      <td>0.432717</td>
-    </tr>
-    <tr>
-      <th>138</th>
-      <td>2.0</td>
-      <td>35.5</td>
-      <td>33.5</td>
-      <td>2.82</td>
-      <td>0.336913</td>
-    </tr>
-    <tr>
-      <th>139</th>
-      <td>2.0</td>
-      <td>36.5</td>
-      <td>32.5</td>
-      <td>5.26</td>
-      <td>0.287790</td>
-    </tr>
-  </tbody>
-</table>
-<p>140 rows × 5 columns</p>
-</div>
-
-
+         Batch  Xlocation  Ylocation  Primary  Declustering Weight
+    0      1.0       39.5       18.5     0.06             1.281301
+    1      1.0        5.5        1.5     0.06             1.400103
+    2      1.0       38.5        5.5     0.08             1.613235
+    3      1.0       20.5        1.5     0.09             1.797446
+    4      1.0       27.5       14.5     0.09             1.430162
+    ..     ...        ...        ...      ...                  ...
+    135    2.0       31.5       41.5    22.75             0.367498
+    136    2.0       34.5       32.5     9.42             0.417419
+    137    2.0       35.5       31.5     8.48             0.432717
+    138    2.0       35.5       33.5     2.82             0.336913
+    139    2.0       36.5       32.5     5.26             0.287790
+    
+    [140 rows x 5 columns]
+    
 
 Note that Declustering Weight have been assigned to the table. So, we can use this weight to calculate unbiased summary statistics.
 
@@ -469,25 +265,25 @@ _ = gs.histogram_plot(data=declus_out, var='Primary', weights='Declustering Weig
 
 
     
-![png](/uploads/blogposts/output_23_0.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_23_0.png)
     
 
 
 
     
-![png](/uploads/blogposts/output_23_1.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_23_1.png)
     
 
 
 
     
-![png](/uploads/blogposts/output_23_2.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_23_2.png)
     
 
 
 
     
-![png](/uploads/blogposts/output_23_3.png)
+![png](/uploads/blogposts/Declustering_GSLIB_Python/output_23_3.png)
     
 
 
@@ -498,6 +294,6 @@ Almost every spatial data is biased, declustering process need to be accounted b
 
 #### Reference 
 
-    Deutsch, C. V., &amp; Journel, A. G. (1998). GSLIB: Geostatistical software library and user's guide. New York: Oxford University Press.
+1. Deutsch, C. V., &amp; Journel, A. G. (1998). GSLIB: Geostatistical software library and user's guide. New York: Oxford University Press.
     
-    Pygeostat Documentation. (n.d.). Retrieved November 19, 2020, from http://www.ccgalberta.com/pygeostat/welcome.html
+2. Pygeostat Documentation. http://www.ccgalberta.com/pygeostat/welcome.html
