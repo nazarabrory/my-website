@@ -2,8 +2,8 @@
 authors = ["nazarabrory"]
 categories = ["Geotourism"]
 date = 2020-10-17T17:00:00Z
-tags = ["Bromo", "Tour", "Virtual"]
-title = "Virtual Geotour to Bromo Volcano, Indonesia."
+tags = ["Bromo", "Virtual Tour"]
+title = "Virtual Geotour to Bromo Volcano, Indonesia"
 toc = false
 [cover]
 alternate = ""
