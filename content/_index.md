@@ -2,7 +2,7 @@
 title: Home
 weight: "-270"
 cover:
-  image: "/uploads/about-me-photo.jpg"
+  image: ""
   alternate: ''
   caption: ''
   style: wide
@@ -13,4 +13,4 @@ menu:
     weight: 1
 
 ---
-> Welcome to my personal blog! Check out my blogposts, If you need anything to discuss, please contact me through my social media. Enjoy!
+> Welcome to my personal blog! Check out my blogposts, If you need anything to discuss, please contact me through my social media.
