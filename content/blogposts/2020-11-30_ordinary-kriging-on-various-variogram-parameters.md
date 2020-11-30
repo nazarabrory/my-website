@@ -1,7 +1,7 @@
 +++
 authors = ["nazarabrory"]
 categories = ["Geostatistics"]
-date = 2020-11-24
+date = 2020-11-30
 tags = ["Variogram","Kriging", "GSLIB", "Python"]
 title = "Ordinary Kriging Study on Various Variogram Parameters"
 toc = false
