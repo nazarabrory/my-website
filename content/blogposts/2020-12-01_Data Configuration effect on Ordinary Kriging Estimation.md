@@ -16,7 +16,7 @@ This post is a practical answers from Problem set three part B on GSLIB book whi
 ### Introduction to Data Configuration Problem
 This part aims at developing intuition about the influence of the data configuration. Consider the situation shown in Figure IV.10 with the angle `ang` varying between 0<sup>o</sup> and 90<sup>o</sup>. Start with these data, an isotropic spherical variogram with a range of 2.0, a variance contribution of C = 0:8, and nugget constant C<sub>0</sub> = 0:2, and use `kb2d.exe` to answer the questions.
 
-![figure IV.10](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/figure_IV.10.PNG)
+![figure IV.10](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/figure_IV.10.PNG)
 
 
 ```python
@@ -40,7 +40,7 @@ _= gs.location_plot(partb, s=100)
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_5_0.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_5_0.png)
     
 
 
@@ -101,49 +101,49 @@ for ang in np.arange(10,90,10):
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_0.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_0.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_1.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_1.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_2.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_2.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_3.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_3.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_4.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_4.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_5.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_5.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_6.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_6.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_8_7.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_8_7.png)
     
 
 
@@ -214,49 +214,49 @@ for ang in np.arange(10,90,10):
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_0.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_0.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_1.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_1.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_2.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_2.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_3.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_3.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_4.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_4.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_5.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_5.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_6.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_6.png)
     
 
 
 
     
-![png](/uploads/blogposts/2020-12-01_Data Configuration effect on Ordinary Kriging Estimation/output_12_7.png)
+![png](/uploads/blogposts/2020-12-01_Data_Configuration_effect_on_Ordinary_Kriging_Estimation/output_12_7.png)
     
 
 
