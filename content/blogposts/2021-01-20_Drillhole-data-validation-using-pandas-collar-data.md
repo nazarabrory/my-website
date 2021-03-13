@@ -2,7 +2,7 @@
 authors = ["nazarabrory"]
 categories = ["Data validation"]
 date = 2021-01-10T17:00:00Z
-draft = true
+draft = false
 tags = ["Collar","Validation", "Duplicate", "Null", "Pandas"]
 title = "DrillHole Data Validation using Pandas: Collar Data"
 toc = false
