@@ -14,7 +14,6 @@ style = ""
 
 +++
 
-## DrillHole Data Validation using Pandas: Collar Data
 
 Drillhole Data consist of at least three Data (Collar, Survey, and Interval Data). All of this data arranged in table form with specified columns connected with HOLE ID as the index key. Collar Data is a point representation on 3D space for each Drillhole, so, Collar data need to have at least these columns they are HOLE_ID, X location, Y location, and Z location.
 
@@ -104,10 +103,6 @@ blank_count(collar)
 
      Here it is the number of NaN values for each column: 
     
-
-
-
-
     hole_id      6
     max_depth    2
     X_Dum        4
