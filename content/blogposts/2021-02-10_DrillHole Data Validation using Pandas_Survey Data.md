@@ -191,10 +191,6 @@ Survey data are measured at surface and on a certain interval in the path of dri
 survey_atsurface = survey.groupby(by='hole_id')['depth'].min() == 0
 survey_atsurface.describe()
 ```
-
-
-
-
     count      468
     unique       2
     top       True
@@ -230,10 +226,6 @@ scdepth['S<=C'].describe()
 
     Here it is the summary:
     
-
-
-
-
     count      387
     unique       1
     top       True
