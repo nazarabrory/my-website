@@ -1,7 +1,7 @@
 +++
 authors = ["nazarabrory"]
 categories = ["Data validation"]
-date = 2021-02-10
+date = 2021-03-13
 draft = false
 tags = ["Survey","Validation","Interval Data", "Lithology", "Pandas"]
 title = "DrillHole Data Validation using Pandas: Interval Data"
